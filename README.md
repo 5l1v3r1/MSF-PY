@@ -18,6 +18,21 @@ pip install socket
 3 . subprocess
 
 pip install subprocess
+# ✓ Useage :
+git clone https://github.com/DjebbarAnon/MSF-PY.git
+
+cd MSF-PY
+
+chmod +x MSF-PY
+
+sudo python3 MSF-PY.py
+# ✓ Screenshots :
+![filename](https://user-images.githubusercontent.com/39780283/46585727-fa888e00-ca39-11e8-9084-146b4d60e3a2.png)
+# ✓ Authors :
+[+] Dj3Bb1rAnon
+[+] B1ack
+
+
 
 
 
